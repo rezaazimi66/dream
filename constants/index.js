@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 export const TOKEN_CONTRACT_ADDRESS = "0xbbb5959752007b8474244740cf8248dcd5862e9d";
 export const TOKEN_CONTRACT_ABI = [
 	{
